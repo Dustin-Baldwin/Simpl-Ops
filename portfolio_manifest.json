@@ -1,0 +1,28 @@
+{
+  "purpose": "Public-safe hiring manager portfolio replica for Simpl Ops",
+  "safety_boundary": "No production code, live URLs, customer data, secrets, private prompts, proprietary scoring, or workflow blueprints.",
+  "file_count": 21,
+  "files": [
+    ".gitignore",
+    "GITHUB_UPLOAD_INSTRUCTIONS.md",
+    "README.md",
+    "diagrams/architecture-flow.md",
+    "diagrams/event-lifecycle.md",
+    "docs/architecture-overview.md",
+    "docs/data-model-sanitized.md",
+    "docs/event-driven-workflow.md",
+    "docs/hiring-manager-notes.md",
+    "docs/portfolio-review-checklist.md",
+    "docs/product-case-study.md",
+    "docs/security-boundary.md",
+    "docs/tradeoffs-and-decisions.md",
+    "examples/__init__.py",
+    "examples/dashboard_mockup.py",
+    "examples/data/no_pii_operational_sample.csv",
+    "examples/queue_processor_demo.py",
+    "examples/signal_engine_demo.py",
+    "requirements.txt",
+    "tests/test_queue_processor_demo.py",
+    "tests/test_signal_engine_demo.py"
+  ]
+}

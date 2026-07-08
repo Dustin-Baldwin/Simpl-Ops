@@ -1,0 +1,6 @@
+client_id,business_type,market,week_start,leads,bookings,available_slots,completed_jobs,follow_up_tasks,avg_response_hours
+DEMO-001,HVAC,Metro North,2026-06-01,42,23,30,21,8,6.5
+DEMO-002,Lawn Care,Metro West,2026-06-01,31,19,22,18,11,10.0
+DEMO-003,Plumbing,Metro South,2026-06-01,55,28,36,34,15,14.5
+DEMO-004,Cleaning,Metro East,2026-06-01,24,16,20,15,6,4.0
+DEMO-005,Roofing,Metro Central,2026-06-01,18,7,16,8,23,26.0
